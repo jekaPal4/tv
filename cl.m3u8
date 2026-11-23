@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1,Первый канал
+https://salam-smf-crc2-d132.rtbcdn.ru/dive/river-3-370.rtbcdn.ru/4hgfHQTySjqXeUsPLQX6Pg/stream/genetta-311.m9.rutube.ru/dg5XDBJfSpTLaDHbVUwO7g/1795374319/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+#EXTINF:-1,Россия 1
+https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1,Россия 24
+https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1,Москва 24
+http://stream.smotrim.ru/hls/moscow_24/playlist.m3u8?entity=channel&id=76&sign=e8e1bc15ce94ee7718ef8948500e5d21
+#EXTINF:-1,НТВ
+https://salam-smf-crc2-d132.rtbcdn.ru/dive/river-3-3122.rtbcdn.ru/8sc58_rfax5rs4uO6Wij4w/stream/genetta-315.m9.rutube.ru/GeD58YGx-cecd-KY9IDcOQ/1795374320/c37cd74192c6bc3d6cd6077c0c4fd686/720p_stream.m3u8
+#EXTINF:-1,Красная линия
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Пятница
+https://salam-smf-crc2-d132.rtbcdn.ru/dive/river-3-359.rtbcdn.ru/GjG_h_6zZTcxjaRe6w5MLA/stream/genetta-410.ntv.rutube.ru/wYzOhEfqWSOvhQkzR2W1VA/1795374321/9f87a9a0cecbe773be6fddcbd93585ac/720p_stream.m3u8
+#EXTINF:-1,Суббота
+https://salam-smf-crc2-d132.rtbcdn.ru/dive/river-3-372.rtbcdn.ru/Bmy9wwR2RGZiCI6fsEXm-g/stream/genetta-319.m9.rutube.ru/A9YbKQv3LTIJrFoynhtzMg/1795374322/310744c10a5809da38aa445c952976da/720p_stream.m3u8
+#EXTINF:-1,СТС
+http://95.47.156.60:8000/play/13/index.m3u8
+#EXTINF:-1,360°
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1,Первый Крымский
+https://live1.trkcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1,ТНТ
+https://salam-smf-crel2-d133.rtbcdn.ru/dive/river-3-361.rtbcdn.ru/rtIUcwwxmG814itcIa7gvw/stream/genetta-318.m9.rutube.ru/4wgD_iPAIdrD7ei108Ys6g/1795374323/546602986e6a424d74d594876ddb3f04/720p_stream.m3u8
+#EXTINF:-1,ТНТ4
+https://salam-smf-crc2-d132.rtbcdn.ru/dive/river-3-358.rtbcdn.ru/MCmw_ZRj7aQqE-uvUVipFw/stream/genetta-410.ntv.rutube.ru/caOhrULBbwpcGPJlvbs_eQ/1795774984/c801a7087e29a097192d74c270fbc6c1/720p_stream.m3u8
+#EXTINF:-1,Домашний
+http://95.47.156.60:8000/play/14/index.m3u8
+#EXTINF:-1,ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1,Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1,Солнце
+https://salam-smf-crel2-d133.rtbcdn.ru/dive/river-3-342.rtbcdn.ru/hru_ipBt2r31D0BnKULxXg/stream/genetta-407.ntv.rutube.ru/CyUxVCw_vL205hjSaFmcmg/1795374324/2dba20a8405e57935827cb5721c2b759/576p_stream.m3u8
+#EXTINF:-1,Мир
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,Мир 24
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,ОТР
+https://salam-smf-crel2-d133.rtbcdn.ru/dive/river-3-3109.rtbcdn.ru/jdZ6Yu0yy9cV-AukPBQSmQ/stream/genetta-316.m9.rutube.ru/R2ky2z8E97HkNLzy1y0FGg/1795374325/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
+#EXTINF:-1,ТВ-3
+https://salam-smf-crc2-d132.rtbcdn.ru/dive/river-3-330.rtbcdn.ru/HctLO5zVrKVWwAP5OJX8Tw/stream/genetta-318.m9.rutube.ru/Bcx6Wum-vxJEtBU-I-X-RQ/1795374326/7bf12d9c050f9a7ef3728db5730432ae/720p_stream.m3u8
+#EXTINF:-1,Рен ТВ
+http://89.232.68.194:8080/rentv/tracks-v3a1/index.m3u8
+#EXTINF:-1,12 канал
+http://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
+#EXTINF:-1,Загородный
+https://salam-smf-crel2-d133.rtbcdn.ru/dive/river-3-355.rtbcdn.ru/7M-Ud8h2-5MDmT-Zo8nJSw/stream/genetta-417.ntv.rutube.ru/hQpOfXR35O13ubC35tQNuw/1795374327/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
+#EXTINF:-1,ЛенТВ24
+https://salam-smf-crc2-d132.rtbcdn.ru/dive/river-3-3115.rtbcdn.ru/fqE019_U_NtqicqR8GNtZw/stream/genetta-305.m9.rutube.ru/8dCNbUWWgE6FNtcUWOIrRQ/1795374330/dd022de9cc6c8af89409513fa0a6117a/720p_stream.m3u8
+#EXTINF:-1,Истоки
+https://salam-smf-crel2-d133.rtbcdn.ru/dive/river-3-375.rtbcdn.ru/oju1MNnowjlnRAvhKlDXbw/stream/genetta-403.ntv.rutube.ru/z3a2xRGw4BUiVdoBRW8yiw/1795374331/503a8ac5ca6d738f05a147764f70215b/576p_stream.m3u8
+#EXTINF:-1,ОТС
+https://salam-smf-crel2-d133.rtbcdn.ru/dive/river-3-313.rtbcdn.ru/2rT2EgQCguZLokagzxWB1Q/stream/genetta-305.m9.rutube.ru/E7F-DQKdn3yhlbkdjumRCQ/1795374332/39c5bfe012402990e6402eded8bdc761/720p_stream.m3u8
+#EXTINF:-1,Югра
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTINF:-1,ОТВ Приморья
+https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
+#EXTINF:-1,Волгоград 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+#EXTINF:-1,Краснодар
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1,ННТВ
+https://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
+#EXTINF:-1,НТС Севастополь
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1,Русский Роман
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1,Телерадиокомпания 555 (Алушта)
+http://trk555.tv:8888/live
+#EXTINF:-1,Моя Планета
+http://vod.tuva.ru/myplanet/index.m3u8
+#EXTINF:-1,Глазами туриста
+http://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:-1,ТВОЕ ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1,Твоё ТВ HD Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
